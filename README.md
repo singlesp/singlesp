@@ -3,7 +3,7 @@
 <div align="center">
   <p align="center">
     🐦 <a href="https://twitter.com/singletonion">Twitter</a> • 
-    🟦 <a href="[hf.co/m-ric](https://bsky.app/profile/parkersingleton.bsky.social)">BlueSky</a> • 
+    🟦 <a href="https://bsky.app/profile/parkersingleton.bsky.social">BlueSky</a> • 
     🌐 <a href="https://www.linkedin.com/in/spsingleton/">LinkedIn</a> • 
     💻 <a href="https://singlesp.github.io">Website</a>
   </p>
